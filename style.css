@@ -14,15 +14,9 @@ body{
     box-sizing: border-box;
 }
 h1 {
+ font-weight: bold;
+ }
 
-    font-weight: bold;
-
-    }
-span{
-            color: #22D4FD;
-            border: 5px solid #22D4FD;
-            padding: 10px;
-}
 .titulo-destaque{
     color: red;
 }
@@ -31,12 +25,15 @@ span{
 
     display: flex;
     align-items: center;
-    margin: 10%;
+    margin: 15%;
     justify-content: space-between;
 }
 
 .presentacion_contenido {
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 
 }
 
