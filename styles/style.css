@@ -82,7 +82,7 @@ h1 {
 .presentacion_contenido_texto_a {
    
     text-decoration: none;
-    color: var(--color-terciario);
+    color: rgb(12, 96, 231);
 }
 
 li {
